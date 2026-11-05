@@ -1,0 +1,1 @@
+print("welcome to the bank management system")
